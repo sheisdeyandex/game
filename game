@@ -1,6 +1,6 @@
 {
   "justice": "https://google.com",
-  "show":"0"
+  "show":"1"
 ,
-  "geo": "ru,kz,uz,us"
+  "geo": "ru,kz,uz"
 }
